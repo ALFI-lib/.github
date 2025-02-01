@@ -1,3 +1,3 @@
 # .github
 
-Community health files for the [@ALFI-library](https://github.com/ALFI-library) organization.
+Community health files for the [@ALFI-lib](https://github.com/ALFI-lib) organization.

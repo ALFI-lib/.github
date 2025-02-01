@@ -6,4 +6,4 @@ ALFI (Advanced Library for Function Interpolation) is a library for efficient fu
 
 ## Repositories
 
-You can find the library implementation in the [ALFI-library/ALFI](https://github.com/ALFI-library/ALFI) repository.
+You can find the library implementation in the [ALFI-lib/ALFI](https://github.com/ALFI-lib/ALFI) repository.
